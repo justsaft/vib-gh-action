@@ -44,5 +44,5 @@ else
     done
 fi
 
-wget -O vib "https://github.com/Vanilla-OS/Vib/releases/download/v$VIB_VERSION/vib-$ARCH"
+wget -O vib "https://github.com/justsaft/Vib/releases/download/v$VIB_VERSION/vib-$ARCH"
 chmod +x vib
